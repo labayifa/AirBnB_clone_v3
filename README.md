@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Carmel Prosper SAGBO - [Github](https://github.com/labayifa) / [Twitter](https://twitter.com/ayifa_sbk)  
-Theophilus Menor - [Github](https://github.com/) / [Twitter](https://twitter.com/)
+Theophilus Menor - [Github](https://github.com/Menor25) / [Twitter](https://twitter.com/DevMenor)
 
 Second part of Airbnb: Joann Vuong
 ## License
